@@ -28,7 +28,7 @@ PneumoniaPrediction/
 ├── loss_vs_epochs.png # Training vs validation loss plot
 └── README.md # This documentation file
 
-````
+```
 
 ---
 
@@ -82,8 +82,6 @@ else:
     print("Normal")
 ````
 
----
-
 ## Results
 
 * **Training Accuracy**: \~89%
@@ -101,20 +99,14 @@ else:
 
 * **Learning Curves**: Refer to `accuracy_vs_epochs.png` and `loss_vs_epochs.png` for detailed training performance.
 
----
-
 ## Future Enhancements
 
 * Transfer learning (e.g., using pretrained networks like ResNet, EfficientNet)
 * Hyperparameter tuning (learning rate, batch size, optimizer variations)
 * Deploy model via Flask/FastAPI or convert to TensorFlow Lite for mobile use
 
----
-
 ## Dataset Access
-
 If you would like access to the dataset, please contact me at **[charani.chukka@gmail.com](mailto:charani.chukka@gmail.com)**.
 
----
 
 
