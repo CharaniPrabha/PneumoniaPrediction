@@ -6,10 +6,8 @@
 This repository contains a deep learning project for classifying chest X-ray images into **Normal** and **Pneumonia** categories using convolutional neural networks. It includes datasets, training notebooks, and model artifacts.
 
 ---
-
+'''
 ##  Directory Structure
-
-```
 
 PneumoniaPrediction/
 ├── ChestXray/ # Root folder for dataset
@@ -27,6 +25,7 @@ PneumoniaPrediction/
 ├── accuracy_vs_epochs.png # Training vs validation accuracy plot
 ├── loss_vs_epochs.png # Training vs validation loss plot
 └── README.md # This documentation file
+'''
 
 ```
 
