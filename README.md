@@ -12,21 +12,21 @@ This repository contains a deep learning project for classifying chest X-ray ima
 ```
 
 PneumoniaPrediction/
-├── ChestXray/                   # Root folder for dataset
-│   ├── train/
-│   │   ├── NORMAL/              # X-ray images labeled as normal
-│   │   └── PNEUMONIA/           # X-ray images labeled as pneumonia
-│   ├── val/
-│   │   ├── NORMAL/
-│   │   └── PNEUMONIA/
-│   └── test/
-│       ├── NORMAL/
-│       └── PNEUMONIA/
-├── pneumonia\_prediction.ipynb   # Jupyter notebook for model training and evaluation
-├── trained\_model.h5             # Saved Keras model after training
-├── accuracy\_vs\_epochs.png       # Training vs validation accuracy plot
-├── loss\_vs\_epochs.png           # Training vs validation loss plot
-└── README.md                    # This documentation file
+├── ChestXray/ # Root folder for dataset
+│ ├── train/
+│ │ ├── NORMAL/ # X-ray images labeled as normal
+│ │ └── PNEUMONIA/ # X-ray images labeled as pneumonia
+│ ├── val/
+│ │ ├── NORMAL/
+│ │ └── PNEUMONIA/
+│ └── test/
+│ ├── NORMAL/
+│ └── PNEUMONIA/
+├── pneumonia_prediction.ipynb # Jupyter notebook for model training and evaluation
+├── trained_model.h5 # Saved Keras model after training
+├── accuracy_vs_epochs.png # Training vs validation accuracy plot
+├── loss_vs_epochs.png # Training vs validation loss plot
+└── README.md # This documentation file
 
 ````
 
